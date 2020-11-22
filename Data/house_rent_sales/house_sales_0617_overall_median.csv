@@ -1,0 +1,127 @@
+LGA_CODE,LGA_NAME,median_sales
+LGA10050,Albury,290.0
+LGA10130,Armidale Regional,345.0
+LGA10250,Ballina,587.5
+LGA10300,Balranald,0.0
+LGA10470,Bathurst Regional,405.0
+LGA10550,Bega Valley,420.0
+LGA10600,Bellingen,545.0
+LGA10650,Berrigan,222.5
+LGA10750,Blacktown,737.0
+LGA10800,Bland,165.0
+LGA10850,Blayney,271.75
+LGA10900,Blue Mountains,680.0
+LGA10950,Bogan,0.0
+LGA11150,Bourke,0.0
+LGA11200,Brewarrina,0.0
+LGA11250,Broken Hill,87.5
+LGA11300,Burwood,1045.0
+LGA11350,Byron,842.5
+LGA11400,Cabonne,345.0
+LGA11450,Camden,745.0
+LGA11500,Campbelltown,620.0
+LGA11520,Canada Bay,1250.0
+LGA11570,Canterbury-Bankstown,863.0
+LGA11600,Carrathool,0.0
+LGA11650,Central Coast,635.0
+LGA11720,Cessnock,349.0
+LGA11730,Clarence Valley,372.5
+LGA11750,Cobar,175.0
+LGA11800,Coffs Harbour,459.0
+LGA12000,Coolamon,200.0
+LGA12150,Coonamble,118.0
+LGA13510,Gundagai,244.0
+LGA12350,Cowra,214.0
+LGA12380,Cumberland,730.0
+LGA18230,Western Plains Regional,333.0
+LGA12700,Dungog,525.0
+LGA12730,Edward River,210.0
+LGA12750,Eurobodalla,432.5
+LGA12850,Fairfield,790.0
+LGA12870,Federation,280.0
+LGA12900,Forbes,260.0
+LGA12930,Georges River,1045.0
+LGA12950,Gilgandra,0.0
+LGA13010,Glen Innes Severn,175.0
+LGA13310,Goulburn Mulwaree,424.0
+LGA13340,Greater Hume Shire,202.0
+LGA13450,Griffith,310.0
+LGA13550,Gunnedah,354.0
+LGA13660,Gwydir,0.0
+LGA13800,Hawkesbury,785.0
+LGA13850,Hay,136.0
+LGA13910,Hilltops,238.8885
+LGA14000,Hornsby,1260.0
+LGA14100,Hunters Hill,2125.0
+LGA14170,Inner West,1270.0
+LGA14200,Inverell,242.0
+LGA14300,Junee,230.0
+LGA14350,Kempsey,330.0
+LGA14400,Kiama,794.0
+LGA14500,Ku-Ring-Gai,1952.5
+LGA14550,Kyogle,300.0
+LGA14600,Lachlan,130.0
+LGA14650,Lake Macquarie,545.0
+LGA14700,Lane Cove,1140.5
+LGA14750,Leeton,256.5
+LGA14850,Lismore,389.5
+LGA14870,Lithgow,320.0
+LGA14900,Liverpool,750.5
+LGA14920,Liverpool Plains,183.5
+LGA14950,Lockhart,0.0
+LGA15050,Maitland,431.0
+LGA15240,Mid-Coast,415.0
+LGA15270,Mid-Western Regional,345.0
+LGA15300,Moree Plains,130.0
+LGA15350,Mosman,2177.5
+LGA15520,Murray River,305.0
+LGA15560,Murrumbidgee,0.0
+LGA15650,Muswellbrook,298.5
+LGA15700,Nambucca,348.0
+LGA15750,Narrabri,287.5
+LGA15800,Narrandera,145.0
+LGA15850,Narromine,202.5
+LGA15900,Newcastle,595.0
+LGA15950,North Sydney,1300.5
+LGA15990,Northern Beaches,1488.1
+LGA16100,Oberon,517.5
+LGA16150,Orange,370.0
+LGA16200,Parkes,244.75
+LGA16260,Parramatta,830.0
+LGA16350,Penrith,669.0
+LGA16380,Port Macquarie-Hastings,517.25
+LGA16400,Port Stephens,480.0
+LGA16490,Queanbeyan-Palerang Regional,508.75
+LGA16550,Randwick,1290.0
+LGA16610,Richmond Valley,291.5
+LGA16700,Ryde,910.0
+LGA16900,Shellharbour,635.0
+LGA16950,Shoalhaven,525.0
+LGA17000,Singleton,437.0
+LGA17040,Snowy Monaro Regional,290.0
+LGA17080,Snowy Valleys,237.5
+LGA17100,Strathfield,720.0
+LGA17150,Sutherland Shire,1165.0
+LGA17200,Sydney,1009.0
+LGA17310,Tamworth Regional,333.0
+LGA17350,Temora,212.0
+LGA17400,Tenterfield,252.5
+LGA17420,The Hills Shire,1260.0
+LGA17550,Tweed,530.0
+LGA17620,Upper Hunter Shire,312.5
+LGA17640,Upper Lachlan Shire,331.25
+LGA17650,Uralla,320.0
+LGA17750,Wagga Wagga,345.0
+LGA17850,Walcha,0.0
+LGA17900,Walgett,0.0
+LGA17950,Warren,0.0
+LGA18020,Warrumbungle Shire,200.0
+LGA18050,Waverley,1360.0
+LGA18100,Weddin,0.0
+LGA18200,Wentworth,210.0
+LGA18250,Willoughby,1580.0
+LGA18350,Wingecarribee,832.5
+LGA18400,Wollondilly,755.0
+LGA18450,Wollongong,680.0
+LGA18500,Woollahra,2225.0
+LGA18710,Yass Valley,541.25

@@ -1,0 +1,126 @@
+LGA_CODE,LGA_NAME,mean_sales
+LGA10050,Albury,340
+LGA10130,Armidale Regional,355
+LGA10250,Ballina,635
+LGA10300,Balranald,0
+LGA10470,Bathurst Regional,440
+LGA10550,Bega Valley,463
+LGA10600,Bellingen,552
+LGA10650,Berrigan,233
+LGA10750,Blacktown,670
+LGA10800,Bland,165
+LGA10850,Blayney,428
+LGA10900,Blue Mountains,669
+LGA10950,Bogan,0
+LGA11150,Bourke,0
+LGA11250,Broken Hill,150
+LGA11300,Burwood,919
+LGA11350,Byron,977
+LGA11400,Cabonne,278
+LGA11450,Camden,708
+LGA11500,Campbelltown,555
+LGA11520,Canada Bay,1171
+LGA11570,Canterbury-Bankstown,759
+LGA11600,Carrathool,0
+LGA11650,Central Coast,635
+LGA11720,Cessnock,426
+LGA11730,Clarence Valley,414
+LGA11750,Cobar,0
+LGA11800,Coffs Harbour,521
+LGA12000,Coolamon,244
+LGA12150,Coonamble,0
+LGA13510,Gundagai,259
+LGA12350,Cowra,300
+LGA12380,Cumberland,673
+LGA18230,Western Plains Regional,368
+LGA12700,Dungog,495
+LGA12730,Edward River,238
+LGA12750,Eurobodalla,503
+LGA12850,Fairfield,661
+LGA12870,Federation,295
+LGA12900,Forbes,252
+LGA12930,Georges River,923
+LGA12950,Gilgandra,183
+LGA13010,Glen Innes Severn,223
+LGA13310,Goulburn Mulwaree,424
+LGA13340,Greater Hume Shire,216
+LGA13450,Griffith,390
+LGA13550,Gunnedah,313
+LGA13660,Gwydir,0
+LGA13800,Hawkesbury,762
+LGA13850,Hay,0
+LGA13910,Hilltops,276
+LGA14000,Hornsby,1011
+LGA14100,Hunters Hill,2347
+LGA14170,Inner West,1154
+LGA14200,Inverell,268
+LGA14300,Junee,0
+LGA14350,Kempsey,360
+LGA14400,Kiama,845
+LGA14500,Ku-Ring-Gai,1634
+LGA14550,Kyogle,300
+LGA14600,Lachlan,151
+LGA14650,Lake Macquarie,592
+LGA14700,Lane Cove,1267
+LGA14750,Leeton,254
+LGA14850,Lismore,407
+LGA14870,Lithgow,407
+LGA14900,Liverpool,724
+LGA14920,Liverpool Plains,260
+LGA14950,Lockhart,0
+LGA15050,Maitland,481
+LGA15240,Mid-Coast,446
+LGA15270,Mid-Western Regional,409
+LGA15300,Moree Plains,215
+LGA15350,Mosman,2167
+LGA15520,Murray River,367
+LGA15560,Murrumbidgee,0
+LGA15650,Muswellbrook,318
+LGA15700,Nambucca,410
+LGA15750,Narrabri,272
+LGA15800,Narrandera,194
+LGA15850,Narromine,0
+LGA15900,Newcastle,626
+LGA15950,North Sydney,1368
+LGA15990,Northern Beaches,1323
+LGA16100,Oberon,454
+LGA16150,Orange,416
+LGA16200,Parkes,293
+LGA16260,Parramatta,815
+LGA16350,Penrith,603
+LGA16380,Port Macquarie-Hastings,542
+LGA16400,Port Stephens,547
+LGA16490,Queanbeyan-Palerang Regional,556
+LGA16550,Randwick,1323
+LGA16610,Richmond Valley,317
+LGA16700,Ryde,998
+LGA16900,Shellharbour,617
+LGA16950,Shoalhaven,592
+LGA17000,Singleton,414
+LGA17040,Snowy Monaro Regional,379
+LGA17080,Snowy Valleys,288
+LGA17100,Strathfield,1128
+LGA17150,Sutherland Shire,960
+LGA17200,Sydney,1061
+LGA17310,Tamworth Regional,354
+LGA17350,Temora,258
+LGA17400,Tenterfield,254
+LGA17420,The Hills Shire,1098
+LGA17550,Tweed,594
+LGA17620,Upper Hunter Shire,342
+LGA17640,Upper Lachlan Shire,418
+LGA17650,Uralla,332
+LGA17750,Wagga Wagga,382
+LGA17850,Walcha,0
+LGA17900,Walgett,0
+LGA17950,Warren,0
+LGA18020,Warrumbungle Shire,169
+LGA18050,Waverley,2184
+LGA18100,Weddin,0
+LGA18200,Wentworth,257
+LGA18250,Willoughby,1526
+LGA18350,Wingecarribee,874
+LGA18400,Wollondilly,748
+LGA18450,Wollongong,666
+LGA18500,Woollahra,2666
+LGA18710,Yass Valley,664
